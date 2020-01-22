@@ -17,7 +17,7 @@ if (empty($lang) || !is_array($lang))
 {
 	$lang = array();
 }
-
+<p>hallo</p>
 $lang = array_merge($lang, array(
 	'TAT'						=> 'BBAvatars',
 	'TAT_SHOW_AVATARS'			=> 'Zeige Avatare in der Forumliste',

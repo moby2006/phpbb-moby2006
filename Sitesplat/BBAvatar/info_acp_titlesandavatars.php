@@ -23,7 +23,7 @@ $lang = array_merge($lang, array(
 	'TAT_SHOW_AVATARS'			=> 'Zeige Avatare in der Forumliste',
 	'TAT_SHOW_AVATARS_EXPLAIN'	=> 'Zeige Avatar vom letzten, ersten oder beiden Poster',
 	'TAT_SHOW_AVATARS_ML'		=> 'Zeige Avatare in Mitgliederliste',
-	'TAT_SHOW_AVATARS_PP'		=> 'Zeige Mitwirkende Avatare in Thema',
+	'TAT_SHOW_AVATARS_PP'		=> 'Zeige Mitwirkende Avatare in Themen',
 	'TAT_SHOW_AVATARS_OL'		=> 'Zeige Avatare in der Online-Liste',
 
 	'TAT_BOTH'					=> 'Zeige beide Avatare',

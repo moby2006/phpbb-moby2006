@@ -19,6 +19,6 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-    'BBAVATARS_PARTECIPANTS'	=> 'Thema Mitwirkende',
-	'PARTICIPATE_OTHERS'	    => 'Alle Mitwirkenden anzeigen',
+    'BBAVATARS_PARTECIPANTS'	=> 'Themen Mitwirkende',
+	'PARTICIPATE_OTHERS'	    => 'Alle Mitwirkende anzeigen',
 ));

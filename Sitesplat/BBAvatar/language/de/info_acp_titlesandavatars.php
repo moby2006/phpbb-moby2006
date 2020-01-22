@@ -37,3 +37,4 @@ $lang = array_merge($lang, array(
 	'BBAVATARS_NOTICE'	            => '<div class="phpinfo"><p>Die Einstellungen für diese Erweiterung sind in <strong>%1$s &#187; %2$s &#187; %3$s.</strong></p></div>',
 
 ));
+ 

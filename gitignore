@@ -3,4 +3,6 @@
 # this directory and all its sub-directories.
 *.txt
 
+# Ignore files called 'README.md'
+README.md
 

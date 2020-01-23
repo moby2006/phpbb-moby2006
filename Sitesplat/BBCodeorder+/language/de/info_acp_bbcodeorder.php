@@ -4,7 +4,7 @@
 * @package BBCodeorder
 * @copyright (c) 2016 SiteSplat All rights reserved
 * @license Proprietary
-*
+* @author Translation to German (c) 2020 visenet.info All rights reserved
 */
 
 if (!defined('IN_PHPBB'))

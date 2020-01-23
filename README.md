@@ -1,4 +1,3 @@
-# phpbb-moby2006
 Ich möchte meine Übersetzungen der Extension die ich gemacht habe Verwalten.
 
 Viele meiner Extension habe ich hier her....
@@ -7,16 +6,20 @@ DMZX - https://www.dmzx-web.net/index.php<br/>
 phpbb.com - https://www.phpbb.com/community/viewforum.php?f=611<br/>
 <br/>
 
-
-<h3>Nutzungsbedingungen</h3>
-
-<p>Meine Sprachpakete (Language-Packs) für die phpbb Software unterliegen den Regelungen des Urheberrechtsschutzgesetzes (UrhG).
-
-Die Sprachpakete dürfen zur eigenen Nutzung beliebig verändert werden, wobei das Entfernen oder Verändern von Copyright-Hinweisen, sofern vorhanden, untersagt ist.
-
-Die Risiken bei der Benutzung unserer Sprachpakete liegt allein beim Benutzer. Eine Haftung für Schäden, die sich eventuell durch eine falsche Bezeichnung von Funktionen oder einer damit verbundenen Handhabung ergeben, findet nicht statt.
-
-Jegliche Weitergabe dieser Sprachpakete ist nur mit schriftlicher Genehmigung von Moby2006 erlaubt.
-
-Anregungen, Wünsche und Verbesserungsvorschläge sind unter Rücksichtnahme unserer Nutzungsbedingungen in unserem Forum jederzeit willkommen.</p>
+<h4>Installation Anleitung</h3>
+<p>Wenn du die Release Herunterladen willst, da stimmt meistens die Struktur für das Hochladen<br>
+Sitesplat/Extension/language/Sprache[de] <br/>
+ <br/> 
+<strong>Beispiel:</strong><br/>
+Sitesplat/BBAvatar/language/de/..</p>
+<br/>
+## Weiterverwendung und Vervielfältigung ##
+<p> Meine Sprachpakete dürfen für die eigene Nutzung beliebig ver-
+ändert und veröffentlicht werden. Bei einer weiter Veröffentlichung in gleicher, 
+abgeänderter oder erweiterter Form solltest du "moby2006/visenet.info" erwähnen.</p><br/>
+<br/>
+## Support ##
+<p>Verbesserungsvorschläge, Wünsche und Kritik sind jederzeit willkommen. Melde dich einfach auf https://visenet.info/ bei "moby2006" oder im Diskussionsthema zu dieser Resource.</p><br/>
+<br/>
+(c) 2020 moby2006/Visenet</p>
 

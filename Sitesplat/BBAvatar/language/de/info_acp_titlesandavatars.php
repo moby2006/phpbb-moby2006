@@ -19,21 +19,21 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'TAT'						=> 'BBAvatars',
-	'TAT_SHOW_AVATARS'			=> 'Zeige Avatare in der Forumliste',
+	'TAT'				=> 'BBAvatars',
+	'TAT_SHOW_AVATARS'		=> 'Zeige Avatare in der Forumliste',
 	'TAT_SHOW_AVATARS_EXPLAIN'	=> 'Zeige Avatar vom letzten, ersten oder beiden Poster',
 	'TAT_SHOW_AVATARS_ML'		=> 'Zeige Avatare in Mitgliederliste',
 	'TAT_SHOW_AVATARS_PP'		=> 'Zeige Mitwirkende Avatare in Themen',
 	'TAT_SHOW_AVATARS_OL'		=> 'Zeige Avatare in der Online-Liste',
 
-	'TAT_BOTH'					=> 'Zeige beide Avatare',
-	'TAT_FIRST'					=> 'Nur erstes Avatar anzeigen',
-	'TAT_LAST'					=> 'Nur letztes Avatar anzeigen',
+	'TAT_BOTH'			=> 'Zeige beide Avatare',
+	'TAT_FIRST'			=> 'Nur erstes Avatar anzeigen',
+	'TAT_LAST'			=> 'Nur letztes Avatar anzeigen',
 	
-	'TAT_AVATAR_FIRST'			=> 'Erstes Avatar:',
-	'TAT_AVATAR_LAST'			=> 'letztes Avatar:',
+	'TAT_AVATAR_FIRST'		=> 'Erstes Avatar:',
+	'TAT_AVATAR_LAST'		=> 'letztes Avatar:',
 	
-	'SS_HELPER_NOTY'	            => 'SiteSplat BBcore existiert nicht! <br /> Laden Sie das <a href="https://sitesplat.com" target="_blank">BBcore</a> herunter und kopieren Sie den BBcore-Ordner in Ihren SiteSplat-Erweiterungsordner.',
-	'BBAVATARS_NOTICE'	            => '<div class="phpinfo"><p>Die Einstellungen für diese Erweiterung sind in <strong>%1$s &#187; %2$s &#187; %3$s.</strong></p></div>',
+	'SS_HELPER_NOTY'	        => 'SiteSplat BBcore existiert nicht! <br /> Laden Sie das <a href="https://sitesplat.com" target="_blank">BBcore</a> herunter und kopieren Sie den BBcore-Ordner in Ihren SiteSplat-Erweiterungsordner.',
+	'BBAVATARS_NOTICE'	        => '<div class="phpinfo"><p>Die Einstellungen für diese Erweiterung sind in <strong>%1$s &#187; %2$s &#187; %3$s.</strong></p></div>',
 
 ));

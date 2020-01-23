@@ -1,12 +1,11 @@
-Ich möchte meine Übersetzungen der Extension die ich gemacht habe Verwalten.
-
-Viele meiner Extension habe ich hier her....
+Ich möchte meine Übersetzungen Verwaltender die ich gemacht habe. Es sind Extension für phpbb.<br/>
+Viele meiner Extension habe ich hier her....<br/>
+<br/>
 Sitesplat - https://sitesplat.com/phpBB3/index.php<br/>
 DMZX - https://www.dmzx-web.net/index.php<br/>
 phpbb.com - https://www.phpbb.com/community/viewforum.php?f=611<br/>
 <br/>
-
-<h4>Installation Anleitung</h3>
+## Installation Anleitung ##
 <p>Wenn du die Release Herunterladen willst, da stimmt meistens die Struktur für das Hochladen<br>
 Sitesplat/Extension/language/Sprache[de] <br/>
  <br/> 

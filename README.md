@@ -5,20 +5,20 @@ Sitesplat - https://sitesplat.com/phpBB3/index.php<br/>
 DMZX - https://www.dmzx-web.net/index.php<br/>
 phpbb.com - https://www.phpbb.com/community/viewforum.php?f=611<br/>
 <br/>
-<strong>Installation Anleitung</strong> 
-<p>Wenn du die Release Herunterladen willst, da stimmt meistens die Struktur für das Hochladen<br>
+<strong>Installation Anleitung</strong><br/> 
+Wenn du die Release Herunterladen willst, da stimmt meistens die Struktur für das Hochladen<br>
 Sitesplat/Extension/language/Sprache[de] <br/>
  
 <strong>Beispiel:</strong><br/>
-Sitesplat/BBAvatar/language/de/..</p>
+Sitesplat/BBAvatar/language/de/..
 
-<strong>Weiterverwendung und Vervielfältigung</strong>
-<p> Meine Sprachpakete dürfen für die eigene Nutzung beliebig ver-
+<strong>Weiterverwendung und Vervielfältigung</strong><br/>
+Meine Sprachpakete dürfen für die eigene Nutzung beliebig ver-
 ändert und veröffentlicht werden. Bei einer weiter Veröffentlichung in gleicher, 
-abgeänderter oder erweiterter Form solltest du "moby2006/visenet.info" erwähnen.</p><br/>
+abgeänderter oder erweiterter Form solltest du "moby2006/visenet.info" erwähnen.<br/>
 
-<strong>Support</strong>
-<p>Verbesserungsvorschläge, Wünsche und Kritik sind jederzeit willkommen. Melde dich einfach auf https://visenet.info/ bei "moby2006" oder im Diskussionsthema zu dieser Resource.</p><br/>
+<strong>Support</strong><br/>
+Verbesserungsvorschläge, Wünsche und Kritik sind jederzeit willkommen. Melde dich einfach auf https://visenet.info/ bei "moby2006" oder im Diskussionsthema zu dieser Resource.<br/>
 
-(c) 2020 moby2006/Visenet</p>
+(c) 2020 moby2006/Visenet
 
